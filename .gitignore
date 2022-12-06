@@ -1,0 +1,10 @@
+#ignore all virtual env files
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#env
+.flaskenv
